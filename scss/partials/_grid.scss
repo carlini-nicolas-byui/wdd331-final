@@ -68,6 +68,7 @@ $gridcolumns: .5fr 1fr .5fr;
     -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
     animation-name: textblend;
     animation-duration: 1s; 
+    border-radius: 5px;
   }
 
   .preamble h3:active ~ p {
